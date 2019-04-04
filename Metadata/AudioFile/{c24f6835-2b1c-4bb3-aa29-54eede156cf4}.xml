@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{c24f6835-2b1c-4bb3-aa29-54eede156cf4}">
+		<property name="assetPath">
+			<value>Garage Door Close 01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>12.101065759637189</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c818b2bc-ea77-4f5b-b81b-24126eb5258d}</destination>
+		</relationship>
+	</object>
+</objects>

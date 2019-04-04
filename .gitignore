@@ -3,3 +3,6 @@
 **/.unsaved
 **/.cache
 **/.restore
+
+# Mac Files
+.DS_Store
